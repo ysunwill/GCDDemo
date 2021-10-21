@@ -7,7 +7,7 @@ Xcode控制台可以查看具体的log输出
 
 ## 🚜线程队列
 
-<img src="screenshots/first.PNG" style="zoom:50%;" />
+<img src="screenshots/first.PNG" style="zoom:20%;" />
 
 |             |      自定义串行队列       |       自定义并发队列       |           主队列           |        全局并发队列        |
 | :---------: | :-----------------------: | :------------------------: | :------------------------: | :------------------------: |
@@ -18,13 +18,13 @@ Xcode控制台可以查看具体的log输出
 
 ## 🚖常见用法
 
-<img src="screenshots/second.PNG" style="zoom:50%;" />
+<img src="screenshots/second.PNG" style="zoom:20%;" />
 
 常见的几个API，可能需要根据不同的业务需求灵活变通
 
 ## 🚃死锁探究
 
-<img src="screenshots/third.PNG" style="zoom:50%;" />
+<img src="screenshots/third.PNG" style="zoom:20%;" />
 
 不同的情况，发生的死锁的`标红`
 
